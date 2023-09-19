@@ -1,0 +1,14 @@
+C:\Assessment1\Program\bin\Release\net7.0\ClientTicket.exe
+C:\Assessment1\Program\bin\Release\net7.0\ClientTicket.deps.json
+C:\Assessment1\Program\bin\Release\net7.0\ClientTicket.runtimeconfig.json
+C:\Assessment1\Program\bin\Release\net7.0\ClientTicket.dll
+C:\Assessment1\Program\bin\Release\net7.0\ClientTicket.pdb
+C:\Assessment1\Program\obj\Release\net7.0\ClientTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assessment1\Program\obj\Release\net7.0\ClientTicket.AssemblyInfoInputs.cache
+C:\Assessment1\Program\obj\Release\net7.0\ClientTicket.AssemblyInfo.cs
+C:\Assessment1\Program\obj\Release\net7.0\ClientTicket.csproj.CoreCompileInputs.cache
+C:\Assessment1\Program\obj\Release\net7.0\ClientTicket.dll
+C:\Assessment1\Program\obj\Release\net7.0\refint\ClientTicket.dll
+C:\Assessment1\Program\obj\Release\net7.0\ClientTicket.pdb
+C:\Assessment1\Program\obj\Release\net7.0\ClientTicket.genruntimeconfig.cache
+C:\Assessment1\Program\obj\Release\net7.0\ref\ClientTicket.dll
