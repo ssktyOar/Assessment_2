@@ -1,0 +1,27 @@
+using UnityEngine;
+using System.Collections;
+
+public class ExampleClass : MonoBehaviour
+{
+    AudioSource audioSource;
+
+
+    void Start()
+    {
+        // Recieve attached to current script's object component tat can make sounds
+        audioSource = GetComponent<AudioSource>();
+    }
+
+    // If something hit current object, this method will be triggered
+    void OnCollisionEnter(Collision collision)
+    {
+        foreach (ContactPoint contact in collision.contacts)
+        {
+            // In debug mode draw white ray from contact point in the direction perpendicular to the surface of another object
+            Debug.DrawRay(contact.point, contact.normal, Color.white);
+        }
+        // If acceleration more than 2 m/c^2 make a sound
+        if (collision.relativeVelocity.magnitude > 2)
+            audioSource.Play();
+    }
+}
