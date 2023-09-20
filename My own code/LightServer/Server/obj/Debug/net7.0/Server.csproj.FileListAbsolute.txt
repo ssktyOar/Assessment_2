@@ -1,0 +1,15 @@
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\bin\Debug\net7.0\Server.exe
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\bin\Debug\net7.0\Server.deps.json
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\bin\Debug\net7.0\Server.dll
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\bin\Debug\net7.0\Server.pdb
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\obj\Debug\net7.0\Server.dll
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\obj\Debug\net7.0\refint\Server.dll
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\obj\Debug\net7.0\Server.pdb
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+D:\1 СКОПИРОВАТЬ ПОСЛЕ\LightServer\Server\obj\Debug\net7.0\ref\Server.dll
