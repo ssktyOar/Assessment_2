@@ -1,0 +1,13 @@
+D:\LEONID\Light\LightEngine\bin\Debug\net6.0\KERNELS\Collision.cl
+D:\LEONID\Light\LightEngine\bin\Debug\net6.0\LightEngine(TK).deps.json
+D:\LEONID\Light\LightEngine\bin\Debug\net6.0\LightEngine(TK).dll
+D:\LEONID\Light\LightEngine\bin\Debug\net6.0\LightEngine(TK).pdb
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine(TK).csproj.AssemblyReference.cache
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine(TK).GeneratedMSBuildEditorConfig.editorconfig
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine(TK).AssemblyInfoInputs.cache
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine(TK).AssemblyInfo.cs
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine(TK).csproj.CoreCompileInputs.cache
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine(TK).dll
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\refint\LightEngine(TK).dll
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine(TK).pdb
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\ref\LightEngine(TK).dll

@@ -1,0 +1,15 @@
+D:\LEONID\Light\LightEngine\bin\Debug\net6.0\LightEngine.exe
+D:\LEONID\Light\LightEngine\bin\Debug\net6.0\LightEngine.deps.json
+D:\LEONID\Light\LightEngine\bin\Debug\net6.0\LightEngine.runtimeconfig.json
+D:\LEONID\Light\LightEngine\bin\Debug\net6.0\LightEngine.dll
+D:\LEONID\Light\LightEngine\bin\Debug\net6.0\LightEngine.pdb
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine.csproj.AssemblyReference.cache
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine.AssemblyInfoInputs.cache
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine.AssemblyInfo.cs
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine.csproj.CoreCompileInputs.cache
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine.dll
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\refint\LightEngine.dll
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine.pdb
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\LightEngine.genruntimeconfig.cache
+D:\LEONID\Light\LightEngine\obj\Debug\net6.0\ref\LightEngine.dll
